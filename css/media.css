@@ -1,0 +1,69 @@
+@media (max-width:1440px){
+    .she-is-beautiful-smile img {
+        width: 93%;
+    }
+    .human-section img {
+    position: absolute;
+    width: 84.5%;
+   }
+}
+@media (max-width:1024px){
+    .she-is-beautiful-smile img {
+        position: absolute;
+        width: 100%;
+        top: 54px;
+        left: 4px;
+    }
+    
+.email-address .btn-sing {
+    padding: 0px 4px;
+}
+.google i {
+    padding: 4px 4px;
+}
+
+.human-section img {
+    position: absolute;
+    width: 100%;
+    margin-top: 37px;
+}
+}
+@media (max-width:768px){
+    
+.she-is-beautiful-smile img {
+    top: 109px;
+    left: 9px;
+}
+
+.content-section h1 {
+    display: inline-block;
+    text-transform: uppercase;
+    color: #ffffff;
+    border: 1px solid;
+    padding: 9px 24px;
+    background-color: #f69165;
+    font-size: 24px;
+}
+
+.email-address input {
+    padding: 5px 0px;
+}
+.email-address .btn-sing {
+    margin-top: 20px;
+    border: 1px solid;
+    border-radius: 0px;
+    padding: 0px 13px;
+    color: #ffffff;
+    font-weight: bold;
+    text-transform: uppercase;
+    background-color: #f69165;
+    border: none;
+}
+}
+@media (max-width:425px){
+    .space1 {
+        margin-left: 4px;
+    }
+
+}
+
